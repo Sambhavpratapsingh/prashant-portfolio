@@ -169,7 +169,7 @@ body {
 /* Hero (NEW PREMIUM VERSION) */
 .hero-with-bg {
     position: relative;
-    background: url('images/prashant-bg..png') center/cover no-repeat;
+    background: url('prashant-bg..png') center/cover no-repeat;
     padding: 5rem 0 4.5rem;
 }
 
@@ -802,3 +802,4 @@ body {
     color: #f9d98b;             /* BRIGHTER GOLD */
     text-shadow: 0 0 18px rgba(243, 201, 106, 0.7); /* GOLD GLOW */
 }
+
